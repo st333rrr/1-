@@ -1,0 +1,5 @@
+﻿  Domain.cpp
+  1лаба.cpp
+  Создание кода...
+c:\users\m4x0n\source\repos\_repos\1лаба\1лаба\domain.cpp(50): warning C4715: In: значение возвращается не при всех путях выполнения
+  1лаба.vcxproj -> C:\Users\m4x0n\source\repos\_repos\1лаба\Debug\1лаба.exe
